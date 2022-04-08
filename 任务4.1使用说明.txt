@@ -1,0 +1,1 @@
+打开SampleApp.eww工程，该工程路径为：Projects\zstack\Samples\SampleApp\CC2530DB。
